@@ -1,0 +1,11 @@
+# Ignore artifacts:
+.next
+.vscode
+build
+coverage
+.vscode-test/
+out/
+dist/
+test-fixtures/
+node_modules/
+.yarn
